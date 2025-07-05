@@ -4,7 +4,7 @@
 To examine the HR data of Palmora Group Emp Data to identify potential areas of concern within the organization and provide recommendations for management consideration.
 
 ## Dataset Used
-'<a hre="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/PROJECT%20REPORT.pbix">' Daataset<a/>
+'<a hre="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/PROJECT%20REPORT.pbix">' Dataset <a/>
 
 ## Questions (KPIs)
 1. What is the gender distribution in the organization? Distil to regions and departments.
@@ -26,7 +26,6 @@ To examine the HR data of Palmora Group Emp Data to identify potential areas of 
 
 '<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/Screenshot%202025-07-05%20135739.png">' Dashboard<a/>
 
-'<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/Screenshot%202025-07-05%20135901.png">'
 
 
 ## Process
@@ -54,8 +53,8 @@ Salary band chart reveals several employees fall below $90K, .
 Total company-wide pay including bonuses is $71.9M with Lagos taking the lead in pay distribution
 
 ## Dashboard
-![Screenshot 2025-07-05 135739](https://github.com/user-attachments/assets/77392e4f-9be0-4e9d-83fc-aed1b8ab5d7f)
-![Screenshot 2025-07-05 135901](https://github.com/user-attachments/assets/0dfa53cd-919f-4249-95f5-35a4218826bf)
+![image](https://github.com/user-attachments/assets/050eb4f1-f56a-4ab7-afd6-3c88a456516e)
+
 
 
 
