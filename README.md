@@ -15,13 +15,13 @@ To examine the HR data of Palmora Group Emp Data to identify potential areas of 
 
 4. A recent regulation was adopted which requires manufacturing companies to pay employees a minimum of $90,000 
 
-● Does Palmora meet this requirement? 
+ ● Does Palmora meet this requirement? 
 
-● Show the pay distribution of employees grouped by a band of $10,000. For example:
+ ● Show the pay distribution of employees grouped by a band of $10,000. For example:
 
-● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
+ ● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? 
 
-● Also visualize this by regions
+ ● Also visualize this by regions
 
 
 '<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/Screenshot%202025-07-05%20135739.png">'Dashboard<a/>
