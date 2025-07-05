@@ -23,7 +23,12 @@ To examine the HR data of Palmora Group Emp Data to identify potential areas of 
 
  ● Also visualize this by regions
 
+ ● Calculate the amount to be paid as a bonus to individual employees
+ 
+ ● Calculate the total amount to be paid to individual employees (salary inclusive of
+bonus)
 
+ ● Total amount to be paid out per region and company-wide
 '<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/Screenshot%202025-07-05%20135739.png">'Dashboard<a/>
 
 
