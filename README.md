@@ -82,6 +82,11 @@ Dashboards was used to provide a unified view of essential metrics and insights.
 •	The questions were asked typically represented using a combination of visualizations.
 
 
+
+## Dashboard
+![image](https://github.com/user-attachments/assets/050eb4f1-f56a-4ab7-afd6-3c88a456516e)
+
+
 ## Project Insight
 
 Following an analysis of Palmora’s HR data—focusing on gender balance, salary structure, performance ratings, and bonus distribution—I identified key areas for improvement to promote fairness and support more informed decision-making.
@@ -93,13 +98,10 @@ Some departments like Product Management and Human Resources have a higher femal
 Regional distribution is even across Kaduna, Abuja, and Lagos.
 
 Palmora does NOT fully meet the $90,000 minimum requirement in some departments.
+
 Salary band chart reveals several employees fall below $90K, .
  
-Total company-wide pay including bonuses is $71.9M with Lagos taking the lead in pay distribution
-
-## Dashboard
-![image](https://github.com/user-attachments/assets/050eb4f1-f56a-4ab7-afd6-3c88a456516e)
-
+Total company-wide pay including bonuses is $71.9M with Lagos taking the lead in pay distribution.
 
 
 
