@@ -57,10 +57,10 @@ Organized data into tables with relationships between them, enabling efficient d
 
 ### Visualization and Reporting:
 
-•	Report Creation
+•	Report Creation:
 This was used to drag-and-drop interface for creating interactive reports and dashboards. 
 
-•	Visualizations
+•	Visualizations:
 Include charts, graphs, maps, matrixes, etc. 
 
 •	Interactivity and Navigation:
