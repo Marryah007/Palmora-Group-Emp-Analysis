@@ -51,6 +51,7 @@ Imported data into Power BI for faster performance, especially for smaller datas
 This tool was used for data cleaning, transformation, and shaping, including tasks like pivoting, unpivoting, and merging data.
 
 Data Modeling:
+
 •	Relational Data Model (RDM):
 Organized data into tables with relationships between them, enabling efficient data analysis.
 
@@ -66,6 +67,7 @@ Include charts, graphs, maps, matrixes, etc.
 Reports made interactive with filters, slicers, and drill-through actions. 
 
 •	Dashboard Design:
+
 Dashboards was used to provide a unified view of essential metrics and insights.
 
 
