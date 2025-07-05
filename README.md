@@ -1,10 +1,10 @@
-# Palmora HR Analysis (Interactive Dashboard Created Using MS Power Bl)
+# Palmora HR Analysis
 
 ## Project Objective
 To examine the HR data of Palmora Group Emp Data to identify potential areas of concern within the organization and provide recommendations for management consideration.
 
 ## Dataset Used
-'<a hre="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/PROJECT%20REPORT.pbix">' Dataset <a/>
+'<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/PROJECT%20REPORT.pbix">'Dataset <a/>
 
 ## Questions (KPIs)
 1. What is the gender distribution in the organization? Distil to regions and departments.
@@ -24,7 +24,7 @@ To examine the HR data of Palmora Group Emp Data to identify potential areas of 
 ● Also visualize this by regions
 
 
-'<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/Screenshot%202025-07-05%20135739.png">' Dashboard<a/>
+'<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/Screenshot%202025-07-05%20135739.png">'Dashboard<a/>
 
 
 
