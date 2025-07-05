@@ -29,6 +29,7 @@ To examine the HR data of Palmora Group Emp Data to identify potential areas of 
 bonus)
 
  ● Total amount to be paid out per region and company-wide
+ 
 '<a href="https://github.com/Marryah007/Palmora-Group-Emp-Analysis/blob/main/Screenshot%202025-07-05%20135739.png">'Dashboard<a/>
 
 
