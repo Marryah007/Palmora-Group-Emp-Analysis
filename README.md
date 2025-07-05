@@ -41,18 +41,18 @@ Here's a breakdown of key methodologies and steps:
 
 Data Connection and Transformation:
 
-•	Data Sources
+•	Data Sources:
 Clicked the Get Data button or the drop-down arrow to view the full list of available data sources, then selected Text/CSV under the File category.
 •	Data Import:
 Imported data into Power BI for faster performance, especially for smaller datasets. 
 •	Power Query Editor:
 This tool was used for data cleaning, transformation, and shaping, including tasks like pivoting, unpivoting, and merging data.
 
-Data Modeling
+Data Modeling:
 •	Relational Data Model (RDM):
 Organized data into tables with relationships between them, enabling efficient data analysis.
 
-Visualization and Reporting
+Visualization and Reporting:
 •	Report Creation
 This was used to drag-and-drop interface for creating interactive reports and dashboards. 
 •	Visualizations
@@ -62,7 +62,6 @@ Reports made interactive with filters, slicers, and drill-through actions.
 
 •	Dashboard Design:
 Dashboards was used to provide a unified view of essential metrics and insights.
-
 
 
 
